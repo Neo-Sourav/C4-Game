@@ -15,4 +15,7 @@
    `pip install -r requirements.txt`
 
 5. **Run the game:**
-   `python main.py`
+   `python Connect4.py`
+
+6. **To close the game:**
+   `press ESC key`
